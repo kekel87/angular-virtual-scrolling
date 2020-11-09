@@ -1,0 +1,13 @@
+
+.example-viewport {
+  height: 100%;
+  width: 100%;
+  border: 1px solid black;
+  box-sizing: border-box;
+}
+
+button {
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+}
